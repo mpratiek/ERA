@@ -63,5 +63,6 @@ ErrorGraph
 Note
 
 With higher learning rate, we are reaching global minima for the weights faster. (assuming simple problem and the error function will be concave with one only minima)
+
 Part 2, Solution
-Notebook: link
+Notebook: https://github.com/mpratiek/ERA/blob/main/ERA_Session_6.ipynb
